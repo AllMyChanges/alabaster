@@ -463,3 +463,14 @@ table.docutils.citation, table.docutils.citation td, table.docutils.citation th 
   -webkit-box-shadow: none;
   box-shadow: none;
 }
+
+/* Show breadcrumbs in one line */
+div.body .breadcrumbs {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+div.body .breadcrumbs li {
+  list-style-type: none;
+  display: inline-block;
+}
