@@ -2,6 +2,8 @@
 Alabaster: a Sphinx theme
 =========================
 
+.. warning:: This page is not reworked yet, and copied from Alabaster.
+
 .. include:: ../README.rst
 
 Features

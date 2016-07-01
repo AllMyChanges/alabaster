@@ -6,9 +6,9 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
 
-project = u'Alabaster'
+project = u'Allabaster'
 year = datetime.now().year
-copyright = u'%d Jeff Forcier' % year
+copyright = u'%d Alexander Artemenko' % year
 
 exclude_patterns = ['_build']
 
@@ -23,13 +23,13 @@ html_sidebars = {
     ]
 }
 html_theme_options = {
-    'description': "A light, configurable Sphinx theme",
-    'github_user': 'bitprophet',
-    'github_repo': 'alabaster',
+    'description': "An embeddable Sphinx theme, based on Alabaster",
+    'github_user': 'AllMyChanges',
+    'github_repo': 'allabaster',
     'fixed_sidebar': True,
 }
 
 extensions.append('releases')
-releases_github_path = 'bitprophet/alabaster'
+releases_github_path = 'AllMyChanges/allabaster'
 # Our pre-0.x releases are unstable / mix bugs+features
 releases_unstable_prehistory = True

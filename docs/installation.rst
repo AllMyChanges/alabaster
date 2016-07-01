@@ -2,6 +2,8 @@
 Installation
 ============
 
+.. warning:: This page is not reworked yet, and copied from Alabaster.
+
 The bare minimum required to install Alabaster is as follows:
 
 * If you're on **Sphinx 1.2 or older**:

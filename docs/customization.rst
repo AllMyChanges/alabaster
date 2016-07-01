@@ -2,6 +2,8 @@
 Customization
 =============
 
+.. warning:: This page is not reworked yet, and copied from Alabaster.
+
 Alabaster's behavior & style can be customized in multiple ways:
 
 * Various template-level or nontrivial-style settings can be configured via

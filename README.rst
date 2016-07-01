@@ -1,5 +1,7 @@
-What is Alabaster?
-==================
+Allabaster is embeddable Alabaster
+==================================
+
+.. warning:: This page is not reworked yet, and copied from Alabaster.
 
 Alabaster is a visually (c)lean, responsive, configurable theme for the `Sphinx
 <http://sphinx-doc.org>`_ documentation system. It is Python 2+3 compatible.
