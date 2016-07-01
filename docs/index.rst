@@ -1,6 +1,6 @@
-=========================
-Alabaster: a Sphinx theme
-=========================
+==========================
+Allabaster: a Sphinx theme
+==========================
 
 .. warning:: This page is not reworked yet, and copied from Alabaster.
 

@@ -1,9 +1,8 @@
-====================================
  Allabaster is embeddable Alabaster
 ====================================
 
 Changes from Alabaster
-======================
+----------------------
 
 * All these fancy sidebars and footers were stripped down, as well,
   as html head and body tags. Now theme generates not complete html
@@ -12,8 +11,6 @@ Changes from Alabaster
 * CSS code was modified to decrease chance of interference with
   css rules of the main site.
 * Breadcrumbs were added to simplify navigation.
-
-.. warning:: The rest of the page is not reworked yet, and copied from Alabaster.
 
 Alabaster is a visually (c)lean, responsive, configurable theme for the `Sphinx
 <http://sphinx-doc.org>`_ documentation system. It is Python 2+3 compatible.
